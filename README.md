@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Iliyana Penova
 
-<!--
-**IliyanaPenova/IliyanaPenova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in computer sience and programing.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Java at SoftUni.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💞️ I’m looking to collaborate on with anything that's connected to software web development.
+
+👨‍💻 All of my projects are available at https://github.com/IliyanaPenova
+
+📫 How to reach me: iliyanap52@gmail.com
+
+You can also connect with me: https://www.linkedin.com/in/iliyana-penova-5509721a2/
