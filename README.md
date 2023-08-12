@@ -12,15 +12,13 @@
 
 You can also connect with me: https://www.linkedin.com/in/iliyana-penova-5509721a2/ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 
-
-Languages And Tools:
-
-<img src="https://img.shields.io/badge/Java🔥-FF6C37?style=for-the-badge&logo=Java&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-
+  
+Languages and Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,idea,java,github" />
+  </a>
+</p>
 
 ![Iliyana's GitHub stats](https://github-readme-stats.vercel.app/api?username=IliyanaPenova&show_icons=true&theme=tokyonight)
 
