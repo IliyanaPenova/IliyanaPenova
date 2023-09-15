@@ -16,7 +16,7 @@ You can also connect with me: https://www.linkedin.com/in/iliyana-penova-5509721
 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,idea,java,github" />
+    <img src="https://skillicons.dev/icons?i=java,idea,vscode,html,css,git,github" />
   </a>
 </p>
 
