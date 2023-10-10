@@ -13,10 +13,9 @@
 You can also connect with me: https://www.linkedin.com/in/iliyana-penova-5509721a2/ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 
   
-Languages and Tools:
-<p align="center">
+Languages and Tools:<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,vscode,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,idea,vscode,html,css,git,github" />
   </a>
 </p>
 
